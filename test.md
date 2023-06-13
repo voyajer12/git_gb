@@ -6,4 +6,6 @@ Some text
 
 * element 1
 * element 2
-* element 3
+* element 3 
+
+text-text
